@@ -1,4 +1,4 @@
-server '188.166.32.225', user: 'deploy', roles: %w(web app db)
+server '104.248.198.193', user: 'deploy', roles: %w(web app db)
 
 set :deploy_to, '/var/www/actest/production'
 
